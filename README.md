@@ -1,4 +1,4 @@
-# Go elastic switch keyboard layout plugin
+# Go ElasticSearch switch keyboard layout plugin
 
 Extension for go client github.com/olivere/elastic add support for keyboard layout suggester github.com/papahigh/elasticsearch-keyboard-layout
 
