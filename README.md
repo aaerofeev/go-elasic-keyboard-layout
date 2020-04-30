@@ -1,4 +1,6 @@
-# Extension for elastic add support for keyboard-layout plugin
+# Go elastic switch keyboard layout plugin
+
+Extension for go client github.com/olivere/elastic add support for keyboard layout plugin github.com/papahigh/elasticsearch-keyboard-layout
 
 ## Links:
 - https://github.com/olivere/elastic/tree/release-branch.v7
