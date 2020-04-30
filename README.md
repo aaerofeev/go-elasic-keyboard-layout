@@ -1,8 +1,8 @@
 # Extension for elastic add support for keyboard-layout plugin
 
 ## Links:
-- github.com/olivere/elastic/tree/release-branch.v7
-- github.com/papahigh/elasticsearch-keyboard-layout
+- https://github.com/olivere/elastic/tree/release-branch.v7
+- https://github.com/papahigh/elasticsearch-keyboard-layout
 
 ## Usage:
 ```
